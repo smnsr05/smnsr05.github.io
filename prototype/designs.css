@@ -1,7 +1,29 @@
 .header {
     height: fit-content;
     width: 100%;
-    border: 10px solid #666666;
+    border: 10px solid #595959;
     background-color: rgb(182, 215, 168);
     box-sizing: border-box;
   }
+
+.textbox {
+    margin: auto;
+    height: fit-content;
+    padding: 10px;
+    width: 50%;
+    border: 5px solid #595959;
+    background-color: #eeeeee;
+    box-sizing: border-box;
+    font-size: large;
+}
+
+.button {
+    margin: auto;
+    height: fit-content;
+    padding: 10px;
+    width: 50%;
+    border: 5px solid #595959;
+    background-color: rgb(182, 215, 168);
+    box-sizing: border-box;
+    font-size: large;
+}
